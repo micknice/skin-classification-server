@@ -1,0 +1,17 @@
+Flask==2.0.1
+https://download.pytorch.org/whl/cpu-cxx11-abi/torch-2.0.0%2Bcpu.cxx11.abi-cp310-cp310-linux_x86_64.whl
+
+gunicorn==20.1.0
+
+numpy==1.24.2
+opencv-python-headless==4.7.0.72
+
+Pillow==9.3.0
+
+requests==2.28.1
+
+torchvision==0.15.1
+transformers==4.27.3
+
+
+

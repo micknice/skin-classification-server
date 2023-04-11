@@ -1,0 +1,9 @@
+{
+    "name":"Pytorch Skin",
+    "description":"Skin cancer Classifier built using pytorch",
+    "keywords":["python","flask","Pytorch"],
+    "buildpacks": [
+        {
+          "url": "https://github.com/heroku/heroku-buildpack-python.git#remove-sqlite"
+        }]
+}
